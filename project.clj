@@ -9,9 +9,6 @@
   :middleware [lein-tools-deps.plugin/resolve-dependencies-with-deps-edn]
   :lein-tools-deps/config {:config-files [:install :user :project]}
 
-;  :dependencies [[org.clojure/clojure "1.10.1"]
-;                 [org.soulspace.clj/clj.java "0.8.0"]
-;                 [org.jfree/jfreechart "1.5.0"]]
-
-:test-paths ["test"]
+  :test-paths ["test"]
+  :scm {:name "git" :url "https://github.com/soulspace-org/cmp.jfreechart"}
   :deploy-repositories [["clojars" {:sign-releases false :url "https://clojars.org/repo"}]])
