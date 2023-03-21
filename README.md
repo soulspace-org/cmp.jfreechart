@@ -10,7 +10,7 @@ Usage
 
 Copyright
 ---------
-© 2011-2020 Ludger Solbach
+© 2011-2023 Ludger Solbach
 
 License
 -------

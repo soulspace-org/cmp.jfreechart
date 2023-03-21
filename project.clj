@@ -1,4 +1,4 @@
-(defproject org.soulspace.clj/cmp.jfreechart "0.4.0"
+(defproject org.soulspace.clj/cmp.jfreechart "0.5.0-SNAPSHOT"
   :description "The cmp.jfreechart component is a Clojure wrapper for JFreechart."
   :url "https://github.com/lsolbach/CljComponents"
   :license {:name "Eclipse Public License"
